@@ -1,4 +1,4 @@
 generarSaludo=function(nombre,apellido){
-    mensaje="HOLA "+nombre+" "+apellido;
+    mensaje="¿Qué más "+nombre+" "+apellido+" ?";
     return mensaje;
 }

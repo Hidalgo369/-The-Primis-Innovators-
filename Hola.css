@@ -1,0 +1,54 @@
+body{
+    background-image: url("./test/gatogolpes.gif");
+    background-color: rgb(13, 223, 255);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.content{
+    background-color: rgb(255, 255, 255,0.7);
+    margin-top: 220px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+h1{
+    font-family: cursive;
+    font-size: 170%;
+
+}
+
+h4{ 
+    font-family: cursive;
+    font-size: 150%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin-left: 20px;
+    margin-right: 5px;
+
+
+}
+
+
+.C1{
+    margin-left: 20px;
+    margin-bottom: 18px;
+}
+
+.picture{
+    border-radius: 120px;
+}
+
+.picture2{
+    border-radius: 120px;
+    margin-left: 10px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
