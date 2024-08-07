@@ -5,5 +5,9 @@ saludar=function(){
     let recoverlastname=document.getElementById("txtApellido");
     let lastname= recoverlastname.value
 
-    generarSaludo(name,lastname);
+    let saludito=generarSaludo(name,lastname);
+
+    console.log(saludito)
+
+
 }
