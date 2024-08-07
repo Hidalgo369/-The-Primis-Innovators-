@@ -9,5 +9,4 @@ saludar=function(){
 
     console.log(saludito)
 
-
 }
