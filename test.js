@@ -7,6 +7,9 @@ saludar=function(){
 
     let saludito=generarSaludo(name,lastname);
 
+    let resultado=document.getElementById("lblResultado");
+    resultado.innerText=saludito;
+    
     console.log(saludito)
 
 }
